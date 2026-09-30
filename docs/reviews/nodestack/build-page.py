@@ -33,6 +33,7 @@ extra='''
 page=f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Nodestack — modular storage, built and reviewed with evidence</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23202020'/%3E%3C/svg%3E">
 <meta name="description" content="Nodestack: a Blender native modular-storage study, coordinated by OpenAI Dots and Antigravity. Three digital configurations, clear physical limits.">
 <link rel="canonical" href="{root}reviews/nodestack/r01/">
 <meta property="og:title" content="Nodestack — modular storage, built and reviewed with evidence"><meta property="og:description" content="A project story about human-directed AI orchestration, native Blender work and bounded digital checks."><meta property="og:type" content="article"><meta property="og:url" content="{root}reviews/nodestack/r01/"><meta name="twitter:card" content="summary">
