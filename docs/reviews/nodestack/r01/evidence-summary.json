@@ -1,0 +1,52 @@
+{
+  "status": "DIGITAL_PRINT_TEST_CANDIDATE_NOT_PHYSICALLY_QUALIFIED",
+  "scope": "Public story only; geometry and derived media withheld pending rights clarification.",
+  "configurations": [
+    {
+      "configuration": "canonical",
+      "part_count": 32,
+      "overall_dims_mm": [
+        208.00000429153442,
+        108.0000028014183,
+        229.90000247955322
+      ],
+      "sha256": "ec9e1437481b4480fdbacc5a4ec3af830a1efbb56f5d751aa31c06ae4f81fa57",
+      "gate_source_sha256": "7933125b28cf481899e70d5bf4e01ccbb05c74b151b8a50fc723cfad9feb9e71",
+      "unchecked_count": 64
+    },
+    {
+      "configuration": "tall",
+      "part_count": 45,
+      "overall_dims_mm": [
+        208.00000429153442,
+        108.0000028014183,
+        327.0999789237976
+      ],
+      "sha256": "4fc4d7ff8e5d8d14f56c310c0a4df6503b9531fb4af5124e9b67e8e9663a1cc2",
+      "gate_source_sha256": "4fc4d7ff8e5d8d14f56c310c0a4df6503b9531fb4af5124e9b67e8e9663a1cc2",
+      "unchecked_count": 90
+    },
+    {
+      "configuration": "adjacent",
+      "part_count": 68,
+      "overall_dims_mm": [
+        407.99999237060547,
+        108.0000028014183,
+        229.90000247955322
+      ],
+      "sha256": "340c4f760722e5cbfb877c80db3feb148e1ffe0ef707d357c4cf4a913c84b7d6",
+      "gate_source_sha256": "340c4f760722e5cbfb877c80db3feb148e1ffe0ef707d357c4cf4a913c84b7d6",
+      "unchecked_count": 136
+    }
+  ],
+  "source_manifest_sha256": "dfef1e1693b7e876fc2fd00429912cb83c15e66cbb5271d5a3b9b7026bab0c40",
+  "physical_samples": 0,
+  "media_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+  "geometry_downloads": "WITHHELD \u2014 reference-design redistribution license unverified",
+  "reference": {
+    "creator": "SMACKMAX_ (@SMACKMAX)",
+    "title": "NODESTACK // SERVICE PACK",
+    "url": "https://www.printables.com/model/1837797-nodestack-service-pack",
+    "redistribution_license": "UNVERIFIED"
+  }
+}

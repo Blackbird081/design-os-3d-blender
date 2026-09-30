@@ -61,3 +61,7 @@ uvx design-os-3d-blender
 - [DC-01 Desktop Companion Review](https://jangtrinh.github.io/design-os-3d-blender/reviews/dc-01/r03/): Interactive Three.js review with 3D model, carousel, and bill of materials.
 - [CK-001 Reference Keyboard Review](https://jangtrinh.github.io/design-os-3d-blender/reviews/ck-001/r02/): Mechanical keyboard delivery package with CAD proof.
 - [GitHub Repository](https://github.com/jangtrinh/design-os-3d-blender): Python automation scripts, test suites, and Blender runner.
+
+## Nodestack project story
+
+- [Nodestack](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r01/): Modular desk-storage reconstruction and engineering study, referencing SMACKMAX_'s NODESTACK // SERVICE PACK. OpenAI Dots coordinated Antigravity planning/building and separate evidence-based reviews with human direction and feedback. The v16b digital package covers three configurations (32/45/68 parts); physical qualification remains unverified. Geometry and derived media are held while reference-design redistribution rights remain unverified. Tool attribution does not imply endorsement.

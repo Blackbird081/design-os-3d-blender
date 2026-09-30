@@ -28,6 +28,12 @@ Rendered in Blender, no added captions or banners. Names, development status and
 
 ## Worked builds
 
+### Nodestack · project story
+
+[Read the Nodestack story](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r01/) — a Blender native modular-storage study with 2×2, 2×3 and 4×2 digital configurations. OpenAI Dots coordinated Antigravity planning/building and separate evidence-based reviews, with human direction and feedback shaping the work.
+
+The reference design is [NODESTACK // SERVICE PACK by SMACKMAX_](https://www.printables.com/model/1837797-nodestack-service-pack). Geometry/export checks cover 32/45/68 parts; physical print, fit, load and strength remain unverified. This publication shares the story only: geometry downloads and derived media are held while the reference-design redistribution license remains unverified. Tool attribution does not imply OpenAI endorsement.
+
 Two builds ship a public review page with the delivered package beside it.
 
 | Build | Review page | What the repository carries |
