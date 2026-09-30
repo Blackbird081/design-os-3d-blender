@@ -1,0 +1,128 @@
+{
+  "revision": "r02",
+  "scope": "NATIVE_STILL_IMAGES_AND_TECHNICAL_COMPARISON",
+  "media_budget_bytes_limit": 26214400,
+  "total_bytes": 891821,
+  "image_count": 9,
+  "policy": {
+    "format": "progressive JPEG q88 metadata-stripped",
+    "video": "WITHHELD",
+    "geometry_downloads": "WITHHELD \u2014 reference-design redistribution license unverified",
+    "reference": {
+      "creator": "SMACKMAX_ (@SMACKMAX)",
+      "title": "NODESTACK // SERVICE PACK",
+      "url": "https://www.printables.com/model/1837797-nodestack-service-pack",
+      "redistribution_license": "UNVERIFIED"
+    }
+  },
+  "images": [
+    {
+      "name": "nodestack-hero.jpg",
+      "original_basename": "0001.png",
+      "source_version": "E304",
+      "source_sha256": "91fe5ee38ad9b383f5cbbcd04482d1ca22dcec53f179a8c6d1a1ea68499ffc6e",
+      "output_sha256": "7876f805268757fb58db5dbfe8effc59628d29be48129875f38a35e0d2a304f0",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "exact native render from E304 canonical studio setup",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 110214
+    },
+    {
+      "name": "nodestack-drawer.jpg",
+      "original_basename": "0650.png",
+      "source_version": "E304",
+      "source_sha256": "d76e800966478da236f056f18279c405f1460b62504f2a201d54ec474a714426",
+      "output_sha256": "d39a85ad5dfed0820b75bab3099a6b0b0bb05363cbd31881b6e789a7674ca0ca",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "native drawer stroke frame 0650 from E304 render suite",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 113281
+    },
+    {
+      "name": "nodestack-canonical.jpg",
+      "original_basename": "1100.png",
+      "source_version": "E304",
+      "source_sha256": "be594143532dbebe1897a4979557dc649af231cd4d3c3a93859fcd7b30538e07",
+      "output_sha256": "7f32cbe60eacbf869c7db627fc74ff6a950963a3011b4f070726261ac065876f",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "canonical 2x2 arrangement frame 1100 from E304 render suite",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 97680
+    },
+    {
+      "name": "nodestack-tall.jpg",
+      "original_basename": "1350.png",
+      "source_version": "E304-tall-derivation",
+      "source_sha256": "14e7acd754a319c1087354b79e857d231fe666863607b7b1454d0168896d2e70",
+      "output_sha256": "feec039b2828a17751b66c921c9dfa75a07c0bd9f15570331c2c9892879851e9",
+      "blend_source_sha256": "43ca2170252388e3bbda3220273735489099063a65e0dbc2875c2fa719ed2171",
+      "provenance": "tall 2x3 tower arrangement frame 1350 derived from E304 modular scene",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 100759
+    },
+    {
+      "name": "nodestack-adjacent.jpg",
+      "original_basename": "1550.png",
+      "source_version": "E304-adjacent-derivation",
+      "source_sha256": "750b798a9b63aff3bea8df7234bfa7a099a58f543e621ea2f0cf0b2eef6ccde3",
+      "output_sha256": "a772c0156d70625cae8155c8ffa5400de0556789e3be6a2f88610f9a591be081",
+      "blend_source_sha256": "487fb427713cc4a3a9986ac470f6f97a36f5fe549729cc4383afe95f07babb15",
+      "provenance": "adjacent 4x2 arrangement frame 1550 derived from E304 modular scene",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 143734
+    },
+    {
+      "name": "nodestack-blueprint.jpg",
+      "original_basename": "proof-0120.png",
+      "source_version": "E304",
+      "source_sha256": "de5e2979d8faff04a656ef827586a81e18aa12efcdff1cdd20bb280edcbf2c81",
+      "output_sha256": "aff971a460c2a03ad8c627cff1bf5ef7e5fafb864c41b19741acc4b98cbf8975",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "illustrative blueprint wireframe geometry view proof-0120",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 149023
+    },
+    {
+      "name": "nodestack-exploded.jpg",
+      "original_basename": "proof-0180.png",
+      "source_version": "E304",
+      "source_sha256": "77489c1e8d16808dba95d758222a2b19585bd53f578cad789c235290039eada0",
+      "output_sha256": "78170f684e0a79f9d43b748fe0baef84381aeff906e3ff3343274c387009a4bd",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "illustrative exploded modular assembly view proof-0180",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 84711
+    },
+    {
+      "name": "nodestack-catalog.jpg",
+      "original_basename": "proof-0240.png",
+      "source_version": "E304",
+      "source_sha256": "2005eeb2db4a91388ed4fdfd0270e027dffc20755aeabbbfdb8624e951286a88",
+      "output_sha256": "c5ba48f80efe33a5a1844dafbd5230608f73ba445b3464c91d8d7686dfeecc5b",
+      "blend_source_sha256": "e304e327b70a2eec93431ab5afe39a675b95282ad46689606324d60c1557a337",
+      "provenance": "canonical 32-part component catalog view proof-0240",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 41061
+    },
+    {
+      "name": "nodestack-v16b-base-before-after.jpg",
+      "original_basename": "nodestack-v16b-base-before-after.png",
+      "source_version": "v16b-print-test",
+      "source_sha256": "078a59ab856c53957bfefa85a0725b34c5eb06e2d27b88eec51d49e61cccd999",
+      "output_sha256": "26a04af4a62eb2d9816eca713f868b329c488396c470daa842fe6909d3c7eb7d",
+      "blend_source_sha256": null,
+      "provenance": "technical section rendering from delivered v16b package comparing E304 and v16b seating profiles",
+      "width": 1400,
+      "height": 800,
+      "bytes": 51358
+    }
+  ]
+}
