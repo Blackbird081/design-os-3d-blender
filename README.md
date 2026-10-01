@@ -30,9 +30,9 @@ Rendered in Blender, no added captions or banners. Names, development status and
 
 ### Nodestack · project story
 
-[Read the Nodestack review r02](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r02/) ([archive r01](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r01/)) — a Blender native modular-storage study with 2×2, 2×3 and 4×2 digital configurations. OpenAI Dots coordinated Antigravity planning/building and separate evidence-based reviews, featuring a verified 7-view still gallery and base-seating engineering analysis.
+[Read the Nodestack review r03 & watch the assembly guide](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r03/#assembly-guide) ([stills r02](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r02/), [archive r01](https://jangtrinh.github.io/design-os-3d-blender/reviews/nodestack/r01/)) — a Blender native modular-storage study with 2×2, 2×3 and 4×2 digital configurations. OpenAI Dots coordinated Antigravity planning/building and separate evidence-based reviews, featuring a 102s procedural assembly-guide video, verified 7-view still gallery, and base-seating engineering analysis.
 
-The reference design is [NODESTACK // SERVICE PACK by SMACKMAX_](https://www.printables.com/model/1837797-nodestack-service-pack). Geometry/export checks cover 32/45/68 parts; physical print, fit, load and strength remain unverified. This publication shares authorized native still views: geometry downloads and video are held while reference-design redistribution rights remain unverified. Tool attribution does not imply OpenAI endorsement.
+The reference design is [NODESTACK // SERVICE PACK by SMACKMAX_](https://www.printables.com/model/1837797-nodestack-service-pack). Geometry/export checks cover 32/45/68 parts; physical print, fit, load and strength remain unverified. This publication shares an authorized 102s procedural assembly guide and native still views; raw geometry downloads and other unreviewed videos are held while reference-design redistribution rights remain unverified. Tool attribution does not imply OpenAI endorsement.
 
 Two builds ship a public review page with the delivered package beside it.
 

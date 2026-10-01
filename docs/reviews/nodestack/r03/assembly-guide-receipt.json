@@ -1,0 +1,69 @@
+{
+  "status": "PASS_FULL_FILM_VERIFIED",
+  "video_file": "nodestack-assembly-guide.mp4",
+  "poster_file": "assembly-guide-poster.jpg",
+  "video_sha256": "ab0a7aa9d34610717f21a116352e382ce90ff798286c8e98e4c2ca503e274ef5",
+  "poster_sha256": "9188fea59a1597dbfa14cfc304cb3527e05dfe0b958026ca5112d6c013d18baf",
+  "file_size_bytes": 10141689,
+  "total_frames": 6120,
+  "fps": 60,
+  "duration_seconds": 102.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "video_version": "v4_revision2",
+  "video_codec": "libx264 (yuv420p)",
+  "typography": "Official Inter 600 SemiBold",
+  "chapters": [
+    {
+      "chapter": 1,
+      "sec": 0,
+      "time": "00:00",
+      "title": "Base"
+    },
+    {
+      "chapter": 2,
+      "sec": 17,
+      "time": "00:17",
+      "title": "Lower structure"
+    },
+    {
+      "chapter": 3,
+      "sec": 36,
+      "time": "00:36",
+      "title": "Lower drawers & keys"
+    },
+    {
+      "chapter": 4,
+      "sec": 57,
+      "time": "00:57",
+      "title": "Upper structure"
+    },
+    {
+      "chapter": 5,
+      "sec": 69,
+      "time": "01:09",
+      "title": "Upper drawers & keys"
+    },
+    {
+      "chapter": 6,
+      "sec": 90,
+      "time": "01:30",
+      "title": "Top plates"
+    },
+    {
+      "chapter": 7,
+      "sec": 96,
+      "time": "01:36",
+      "title": "Hero"
+    }
+  ],
+  "disclosures": {
+    "digital_route": "Digital development sequence; digital sampled route; physical testing pending.",
+    "workholding": "Provisional workholding (diagrammatic underside inversion).",
+    "tag_retention": "Position only; retention method unknown.",
+    "physical_status": "Physical print, fit, load and strength remain unverified.",
+    "claims_policy": "NO 'Fully verified' or 'Interlock complete' user-facing claims."
+  }
+}
